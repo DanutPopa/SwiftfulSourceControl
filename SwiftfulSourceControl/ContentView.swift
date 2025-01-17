@@ -44,7 +44,7 @@ struct ContentView: View {
         }
         .padding()
         
-        Button("Subscribe now!") {
+        Button("Subscribe") {
             
         }
         
