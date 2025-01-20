@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0C1F6AAA2D3EAF1A00403668 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C1F6AA92D3EAF1A00403668 /* SettingsView.swift */; };
 		0C41EEDA2D3952EF00BE8800 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C41EED92D3952EE00BE8800 /* HomeView.swift */; };
 		0CE278502D380ED5004A2844 /* SwiftfulSourceControlApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CE2784F2D380ED5004A2844 /* SwiftfulSourceControlApp.swift */; };
 		0CE278522D380ED5004A2844 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CE278512D380ED5004A2844 /* ContentView.swift */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0C1F6AA92D3EAF1A00403668 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
 		0C41EED92D3952EE00BE8800 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 		0CE2784C2D380ED5004A2844 /* SwiftfulSourceControl.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftfulSourceControl.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0CE2784F2D380ED5004A2844 /* SwiftfulSourceControlApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftfulSourceControlApp.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 				0CE2784F2D380ED5004A2844 /* SwiftfulSourceControlApp.swift */,
 				0CE278512D380ED5004A2844 /* ContentView.swift */,
 				0C41EED92D3952EE00BE8800 /* HomeView.swift */,
+				0C1F6AA92D3EAF1A00403668 /* SettingsView.swift */,
 				0CE278532D380ED8004A2844 /* Assets.xcassets */,
 				0CE278552D380ED8004A2844 /* Preview Content */,
 			);
@@ -141,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0C41EEDA2D3952EF00BE8800 /* HomeView.swift in Sources */,
+				0C1F6AAA2D3EAF1A00403668 /* SettingsView.swift in Sources */,
 				0CE278522D380ED5004A2844 /* ContentView.swift in Sources */,
 				0CE278502D380ED5004A2844 /* SwiftfulSourceControlApp.swift in Sources */,
 			);
